@@ -1,0 +1,5 @@
+check
+printFile
+method
+a a a
+tes tes test
